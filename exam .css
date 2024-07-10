@@ -1,0 +1,87 @@
+h1  {
+    color: green;
+}
+ header {
+    display: inline-flex;
+    
+    width: 100%;
+    margin-top: 30px;
+    margin-left:30px ;
+    margin-right: 30px;
+    justify-content:baseline;
+}
+body{
+   background-color: rgb(100, 95, 95); 
+
+}
+*{  padding: 0;
+    margin: 0;}
+.head{
+    background-color: white;
+    display: inline-flex;
+}
+.head .m{
+    color: gray;
+    margin-top: -20px;
+
+
+}
+
+.stick ul {
+    
+    display: inline-flex;
+    margin-top: 60px;
+margin-right: 40px;
+}
+.stick ul li {
+    width: 130px;
+
+}
+.stick ul li a{
+    text-decoration: none;
+    color: rgb(136, 144, 136);
+    font-size: 20px;
+}
+button{
+    
+    background-color: green;
+    font-size:15px;
+}
+.t{
+    text-decoration: underline;
+}
+.e{
+    margin-top: 50px;
+    margin-left: -30px;
+    color: rgb(136, 144, 136);
+}
+.j{
+    
+    margin: 50px;
+    width:100%;
+    color:green;
+    font-weight: bolder;
+    
+}
+.j figcaption{
+    color: green;
+}
+
+
+
+
+.card-img-overlay{
+    color: green;
+    margin-top: 5%;
+    margin-left: 40px;
+}
+#er{
+    background-color: aliceblue;
+    display: flex;
+    color: green;
+}
+.hed{
+    margin-left: 30px;
+    margin-bottom: 50px;
+    margin-right: 30px;
+}
